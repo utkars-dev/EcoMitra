@@ -68,8 +68,8 @@ const ExploreGames = () => {
     },
     {
       id: 2,
-      title: "Eco Craft",
-      description: "Navigate the seas and clean up plastic waste",
+      title: "Eco Run",
+      description: "Navigate the lands of a endless plain and save yourself from plastic waste",
       icon: Fish,
       category: "ocean",
       difficulty: "Medium",
@@ -81,7 +81,7 @@ const ExploreGames = () => {
     {
       id: 3,
       title: "Eco Escape",
-      description: "Design sustainable cities powered by renewable energy",
+      description: "Sort the Waste into Different sections",
       icon: Sun,
       category: "energy",
       difficulty: "Hard",
@@ -105,8 +105,8 @@ const ExploreGames = () => {
     },
     {
       id: 5,
-      title: "Water Cycle Quest",
-      description: "Learn about water conservation through interactive challenges",
+      title: "EcoMitra Waste Sorting",
+      description: "Learn about waste sorting through a ineractive journey",
       icon: Droplets,
       category: "water",
       difficulty: "Medium",
