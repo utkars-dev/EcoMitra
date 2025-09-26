@@ -117,14 +117,15 @@ const ExploreGames = () => {
     },
     {
       id: 6,
-      title: "Wind Farm Manager",
-      description: "Optimize wind energy production across different terrains",
+      title: "Ocean Rescue Rangers",
+      description: "Rescue the fishes of the giant ocean by removing harmfull waste",
       icon: Wind,
       category: "energy",
       difficulty: "Hard",
       players: "743",
       color: "from-indigo-400 to-purple-500",
-      bgImage: "bg-gradient-to-br from-indigo-100 to-purple-200"
+      bgImage: "bg-gradient-to-br from-indigo-100 to-purple-200",
+      link: "/game6"
     },
     {
       id: 7,
