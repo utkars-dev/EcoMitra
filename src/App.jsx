@@ -10,6 +10,7 @@ import Game2 from "./components/game2";
 import Game3 from "./components/game3";
 import Game4 from "./components/game4";
 import Game5 from "./components/game5";
+import Game6 from "./components/game6";
 
 // Define all routes in one place
 const routes = [
@@ -26,6 +27,7 @@ const routes = [
   { path: "/game3", element: <Game3 /> },
   { path: "/game4", element: <Game4 /> },
   { path: "/game5", element: <Game5 /> },
+   { path: "/game6", element: <Game6 /> },
 ];
 
 function App() {
